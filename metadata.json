@@ -1,0 +1,6 @@
+{
+  "name": "iOS 27 Theme for Poco",
+  "description": "Ultra-sleek iOS 27 Theme Engine for Poco & Xiaomi devices featuring Liquid Glass themes, Dynamic Island 27, Control Center overlay, Depth Lockscreen, Squircle Icon Pack, and HyperOS auto-apply assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
